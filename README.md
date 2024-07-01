@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Adewoye Saheed Damilola
 ===============================================================================================================================================
 
-🚀 Aspiring Data Scientist | Learning, Coding, and Exploring the World of Data
+🚀 Data Science Explorer | Learning, Coding, and Exploring the World of Data
 ------------------------------------------------------------------------------
 
 📊 Welcome to my GitHub! I'm passionate about leveraging data to gain insights and solve real-world problems. Currently, on a journey to master the art of data science, I'm committed to continuous learning and collaboration.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [adewoyesaheed.dml@gmail.com](mailto:adewoyesaheed.dml@gmail.com)
-*   🧠  I'm learning Data Visualization
+*   🧠  I'm learning Data Extraction using Postgres and MySQL
 *   🤝  I'm open to collaborating on interesting projects. Let's connect and grow together!
 *   ### Skills 
 <p align="left">
