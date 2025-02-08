@@ -19,9 +19,9 @@ Data has always intrigued me—how a simple dataset can reveal complex stories a
 - 🔭 **Current Role:** Intern at Alx.
 - 🌱 **Learning:** MeanShift Clustering (unsupervised MLclustering algorithm).
 - 💬 **Let's Connect:** Feel free to ask me anything; I'm always open to discussions and collaboration.
-- 📫 **Get in Touch:** Connect with me on [LinkedIn](https://www.linkedin.com/in/adewoye-saheed-damilola/) or [Medium](https://medium.com/@adewoye-saheed-dML).
+- 📫 **Get in Touch:** Connect with me on [LinkedIn](https://www.linkedin.com/in/adewoye-saheed-damilola/)
 - ⚡ **Latest Blog:** Check out my recent posts on [Medium](https://medium.com/@adewoye-saheed-dML).
-- 📝 **Portfolio:** Explore my projects on [Portfolio](https://adewoyesaheed001.wixsite.com/saheeddml).
+- 📝 **Portfolio:** Explore my projects on [Portfolio](https://adewoye-saheed-dml.github.io/adewoyesaheeddml.github.io/).
 
 ### Community Involvement:
 - **Alx Data Science**
