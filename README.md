@@ -16,7 +16,7 @@
 Data has always intrigued me—how a simple dataset can reveal complex stories and solve real-world problems. I'm committed to pushing the boundaries of what's possible. Whether digging into data to find hidden patterns or collaborating with others to turn insights into action, I'm all in on this journey.
 
 ### About Me:
-- 🔭 **Current Role:** Intern at Alx.
+- 🔭 **Current Role:** Mentor Lead at Insights Data Academy.
 - 🌱 **Learning:** MeanShift Clustering (unsupervised MLclustering algorithm).
 - 💬 **Let's Connect:** Feel free to ask me anything; I'm always open to discussions and collaboration.
 - 📫 **Get in Touch:** Connect with me on [LinkedIn](https://www.linkedin.com/in/adewoye-saheed-damilola/)
