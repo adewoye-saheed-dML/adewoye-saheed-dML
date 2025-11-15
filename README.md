@@ -6,7 +6,7 @@ Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead
   <a href="https://www.linkedin.com/in/adewoye-saheed-damilola/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://adewoye-saheed-dml.github.io/adewoyesaheeddml.github.io/" target="_blank">
+  <a href="https://[adewoye-saheed-dml.github.io/adewoyesaheeddml.github.io/](https://adewoye-saheed-dml.github.io/adewoyesaheeddml.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://medium.com/@adewoye-saheed-dML" target="_blank">
@@ -21,7 +21,7 @@ Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead
 
 ### Personal Mission
 
-> Data has always intrigued me—how a simple dataset can reveal complex stories and solve real-world problems. I'm committed to pushing the boundaries of what's possible. Whether digging into data to find hidden patterns or collaborating with others to turn insights into action, I'm all in on this journey.
+> Data has always intrigued me, how a simple dataset can reveal complex stories and solve real-world problems. I'm committed to pushing the boundaries of what's possible. Whether digging into data to find hidden patterns or collaborating with others to turn insights into action, I'm all in on this journey.
 
 ---
 
