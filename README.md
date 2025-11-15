@@ -1,6 +1,6 @@
-# [cite_start]Hi, I'm Adewoye Saheed Damilola [cite: 2]
+# Hi, I'm Adewoye Saheed Damilola
 
-[cite_start]Award-winning Data Analyst [cite: 4] [cite_start]• Huawei-Certified ICT Professional [cite: 4] [cite_start]• Mentor Lead @ Insights Data Academy [cite: 11]
+Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead @ Insights Data Academy 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adewoye-saheed-damilola/" target="_blank">
@@ -19,13 +19,13 @@
 
 ---
 
-### 👨‍💻 Personal Mission
+### Personal Mission
 
 > Data has always intrigued me—how a simple dataset can reveal complex stories and solve real-world problems. I'm committed to pushing the boundaries of what's possible. Whether digging into data to find hidden patterns or collaborating with others to turn insights into action, I'm all in on this journey.
 
 ---
 
-### 🧭 Quick Navigation
+### Quick Navigation
 
 * [About Me](#-about-me)
 * [Tech Stack](#-tech-stack)
@@ -38,21 +38,21 @@
 
 ---
 
-### 🧑‍💼 About Me
+### About Me
 
-* [cite_start]🔭 **Current Role:** Mentor Lead at Insights Data Academy[cite: 11].
-* 🌱 **Learning:** Currently deepening my knowledge of unsupervised machine learning with MeanShift Clustering.
-* [cite_start]🎯 **Focus:** Expertise in cloud computing [cite: 4][cite_start], storage solutions [cite: 4][cite_start], and AI-driven data analytics[cite: 4]. [cite_start]Proven ability to leverage data wrangling, visualization, and predictive modeling[cite: 6].
-* [cite_start]💡 **Passion:** I am passionate about developing cloud-based AI solutions for sustainable impact[cite: 7].
-* 💬 **Let's Connect:** Feel free to ask me anything; I'm always open to discussions and collaboration.
-* [cite_start]📍 **Location:** Zaria, Kaduna State, Nigeria[cite: 3].
-* 🎓 **Education:** B.Eng. [cite_start]Mechanical Engineering at Ahmadu Bello University [cite: 11] [cite_start]& OND at Kwara State Polytechnics[cite: 11].
+* **Current Role:** Mentor Lead at Insights Data Academy.
+* **Learning:** Currently deepening my knowledge of unsupervised machine learning with MeanShift Clustering.
+* **Focus:** Expertise in cloud computing, storage solutions, and AI-driven data analytics. Proven ability to leverage data wrangling, visualization, and predictive modeling.
+* **Passion:** I am passionate about developing cloud-based AI solutions for sustainable impact.
+* **Let's Connect:** Feel free to ask me anything; I'm always open to discussions and collaboration.
+* **Location:** Zaria, Kaduna State, Nigeria.
+* **Education:** B.Eng. Mechanical Engineering at Ahmadu Bello University & OND at Kwara State Polytechnics.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-[cite_start]This is a summary of my technical skills based on my resume[cite: 9, 10].
+This is a summary of my technical skills based on my resume.
 
 **Data Analysis & ML**
 <p>
@@ -87,60 +87,33 @@
 
 ---
 
-### 📚 Learning Journey
+### Learning Journey
 
 * **Now:** Deepening my understanding of unsupervised machine learning with MeanShift Clustering.
 * **Next:** Exploring advanced model deployment techniques and MLOps practices to bridge the gap between analysis and production.
 
 ---
 
-### 🏆 Certifications & Achievements
+###  Certifications & Achievements
 
-* [cite_start]🥇 **Global First Prize (Cloud Track)** - Huawei ICT Competition 2022-2023 [cite: 5, 10]
-* [cite_start]👨‍🏫 **Huawei Certified Academy Instructor** [cite: 10]
-* [cite_start]☁️ **HCIP-Storage** [cite: 10]
-* [cite_start]☁️ **HCIA-Cloud Computing** [cite: 10]
-* [cite_start]☁️ **HCIA-Cloud Service** [cite: 10]
-* [cite_start]☁️ **HCIA-Storage** [cite: 10]
-
----
-
-### 🚀 Key Projects
-
-* [cite_start]**Google Merchandise RFM Analysis:** Processed 6,000+ transactions in BigQuery, segmenting customers with RFM metrics and building an interactive Power BI dashboard[cite: 11].
-* [cite_start]**Olist Sales Funnel Dashboard:** Created a live, cloud-deployed Streamlit dashboard to track real-time sales drop-off, identifying landing page bottlenecks[cite: 11].
-* [cite_start]**15% Discount Impact Study:** Automated a sales reporting system (saving 8+ hours/month) and identified optimal discount thresholds using MySQL and Power BI[cite: 11].
-* [cite_start]**Alex The Analyst YouTube Insights:** Scraped and analyzed 355 videos via YouTube API, using statistical analysis to identify key growth drivers and recommend a new content strategy[cite: 11].
+* **Huawei Certified Academy Instructor** 
+* ☁️ **HCIP-Storage**
+* ☁️ **HCIA-Cloud Computing** 
+* ☁️ **HCIA-Cloud Service** 
+* ☁️ **HCIA-Storage** 
 
 ---
 
-### 💼 Work Experience
-
-* **Lead Academic Instructor** | [cite_start]Insights Data Academy *(Feb 2025 - Present)* [cite: 11]
-    * [cite_start]Trained 40+ students in analytics tech stacks (Spreadsheet, Database, BI)[cite: 11].
-    * [cite_start]Integrated a hands-on-first approach into the curriculum[cite: 11].
-* **Data Science Intern** | [cite_start]Alx - Africa *(May 2024 - May 2025)* [cite: 11]
-    * [cite_start]Deployed churn prediction models using Python (Docker)[cite: 11].
-    * [cite_start]Created Power BI dashboards to track product KPIs[cite: 11].
-* **Data Analyst** | [cite_start]HNG - Nigeria *(Jul 2024 - Aug 2024)* [cite: 11]
-    * [cite_start]Optimized database performance using MySQL[cite: 11].
-    * [cite_start]Conducted SEO analysis, increasing web traffic by 5%[cite: 11].
-
----
-
-### 🤝 Community Involvement
+### Community Involvement
 
 * Alx Data Science
 * ArewaDS Community
-* [cite_start]HNG Interns Community [cite: 11]
+* HNG Interns Community
 * DataTalks Club
 
 ---
 
-### 📊 GitHub Stats
-
-*(Note: This username is based on your portfolio URL. It will automatically populate when you add this to your README.)*
-
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Adewoye Saheed's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
