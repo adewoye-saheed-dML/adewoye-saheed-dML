@@ -3,10 +3,10 @@
 Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead @ Insights Data Academy 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adewoye-saheed-damilola/" target="_blank">
+  <a href="https://www.linkedin.com/in/adewoye-saheed-dml/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://[adewoye-saheed-dml.github.io/adewoyesaheeddml.github.io/](https://adewoye-saheed-dml.github.io/adewoyesaheeddml.github.io/)" target="_blank">
+  <a href="https://adewoye-saheed-dml.github.io/adewoyesaheeddml.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://medium.com/@adewoye-saheed-dML" target="_blank">
@@ -111,8 +111,25 @@ This is a summary of my technical skills based on my resume.
 
 ---
 
-### GitHub Stats
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Adewoye Saheed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" 
+    alt="Adewoye Saheed GitHub Stats" 
+    height="180"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="180"
+  />
 </p>
+
+<p align="center">
+  <i>“Consistent learning, constant building.”</i>
+</p>
+
