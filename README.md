@@ -116,20 +116,16 @@ This is a summary of my technical skills based on my resume.
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&hide_border=true&theme=default" 
     alt="Adewoye Saheed GitHub Stats" 
-    height="180"
+    height="170"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&hide_border=true&theme=default" 
     alt="Top Languages" 
-    height="180"
+    height="170"
   />
-</p>
-
-<p align="center">
-  <i>“Consistent learning, constant building.”</i>
 </p>
 
