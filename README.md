@@ -114,18 +114,22 @@ This is a summary of my technical skills based on my resume.
 ## GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&hide_border=true&theme=default" 
-    alt="Adewoye Saheed GitHub Stats" 
-    height="170"
-  />
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&hide_border=true&theme=default" 
-    alt="Top Languages" 
-    height="170"
-  />
+  <span style="display: inline-block;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&hide_border=true&theme=default"
+      alt="Adewoye Saheed GitHub Stats" 
+      height="170"
+    />
+  </span>
+
+  <span style="display: inline-block; margin-left: 10px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&hide_border=true&theme=default"
+      alt="Top Languages" 
+      height="170"
+    />
+  </span>
+
 </p>
 
