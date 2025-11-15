@@ -119,7 +119,7 @@ This is a summary of my technical skills based on my resume.
     <img 
       src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&hide_border=true&theme=default"
       alt="Adewoye Saheed GitHub Stats" 
-      height="170"
+      height="180"
     />
   </span>
 
@@ -127,7 +127,7 @@ This is a summary of my technical skills based on my resume.
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&hide_border=true&theme=default"
       alt="Top Languages" 
-      height="170"
+      height="180"
     />
   </span>
 
