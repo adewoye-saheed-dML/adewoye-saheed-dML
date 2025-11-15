@@ -21,7 +21,7 @@ Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead
 
 ### Personal Mission
 
-> Data has always intrigued me, how a simple dataset can reveal complex stories and solve real-world problems. I'm committed to pushing the boundaries of what's possible. Whether digging into data to find hidden patterns or collaborating with others to turn insights into action, I'm all in on this journey.
+>My professional journey is rooted in a deep curiosity for the stories data can tell. With a foundation in Data Analysis and Data Science, and currently expanding my expertise into Data Engineering, I focus on the entire data lifecycle. I am committed to designing and implementing efficient data pipelines and architectures that ensure data is not just available, but reliable and actionable. For me, it is about transforming raw data into intelligent systems that drive decision-making and solve pressing challenges.
 
 ---
 
@@ -50,7 +50,7 @@ Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead
 
 ### Tech Stack
 
-This is a summary of my technical skills based on my resume.
+This is a summary of my technical skills.
 
 **Data Analysis & ML**
 <p>
@@ -93,7 +93,8 @@ This is a summary of my technical skills based on my resume.
 ---
 
 ###  Certifications & Achievements
-
+* **Data Scientist, ALX**
+* **Data Analyst, DataCamp**
 * **Huawei Certified Academy Instructor** 
 * ☁️ **HCIP-Storage**
 * ☁️ **HCIA-Cloud Computing** 
@@ -119,7 +120,7 @@ This is a summary of my technical skills based on my resume.
     <img 
       src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&hide_border=true&theme=default"
       alt="Adewoye Saheed GitHub Stats" 
-      height="180"
+      height="190"
     />
   </span>
 
@@ -127,7 +128,7 @@ This is a summary of my technical skills based on my resume.
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&hide_border=true&theme=default"
       alt="Top Languages" 
-      height="180"
+      height="190"
     />
   </span>
 
