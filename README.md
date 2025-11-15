@@ -31,8 +31,6 @@ Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead
 * [Tech Stack](#-tech-stack)
 * [Learning Journey](#-learning-journey)
 * [Certifications & Achievements](#-certifications--achievements)
-* [Key Projects](#-key-projects)
-* [Work Experience](#-work-experience)
 * [Community Involvement](#-community-involvement)
 * [GitHub Stats](#-github-stats)
 
