@@ -1,4 +1,4 @@
-# Hi, I'm Adewoye Saheed Damilola
+# Hi, I'm Saheed Damilola Adewoye
 
 Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead @ Insights Data Academy 
 
