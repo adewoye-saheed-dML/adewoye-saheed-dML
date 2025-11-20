@@ -43,7 +43,7 @@ Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead
 * **Focus:** Expertise in cloud computing, storage solutions, and AI-driven data analytics. Proven ability to leverage data wrangling, visualization, and predictive modeling.
 * **Passion:** I am passionate about developing cloud-based AI solutions for sustainable impact.
 * **Let's Connect:** Feel free to ask me anything; I'm always open to discussions and collaboration.
-* **Location:** Zaria, Kaduna State, Nigeria.
+* **Location:** Nigeria.
 * **Education:** B.Eng. Mechanical Engineering at Ahmadu Bello University & OND at Kwara State Polytechnics.
 
 ---
