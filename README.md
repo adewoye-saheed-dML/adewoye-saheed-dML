@@ -24,27 +24,14 @@ Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead
 >My professional journey is rooted in a deep curiosity for the stories data can tell. With a foundation in Data Analysis and Data Science, and currently expanding my expertise into Data Engineering, I focus on the entire data lifecycle. I am committed to designing and implementing efficient data pipelines and architectures that ensure data is not just available, but reliable and actionable. For me, it is about transforming raw data into intelligent systems that drive decision-making and solve pressing challenges.
 
 ---
-
-### Quick Navigation
-
-* [About Me](#-about-me)
-* [Tech Stack](#-tech-stack)
-* [Learning Journey](#-learning-journey)
-* [Certifications & Achievements](#-certifications--achievements)
-* [Community Involvement](#-community-involvement)
-* [GitHub Stats](#-github-stats)
-
----
-
 ### About Me
 
 * **Current Role:** Mentor Lead at Insights Data Academy.
 * **Learning:** Currently deepening my knowledge of unsupervised machine learning with MeanShift Clustering.
 * **Focus:** Expertise in cloud computing, storage solutions, and AI-driven data analytics. Proven ability to leverage data wrangling, visualization, and predictive modeling.
-* **Passion:** I am passionate about developing cloud-based AI solutions for sustainable impact.
+* **Passion:** I am passionate about developing cloud-based AI Data solutions for sustainable impact.
 * **Let's Connect:** Feel free to ask me anything; I'm always open to discussions and collaboration.
-* **Location:** Nigeria.
-* **Education:** B.Eng. Mechanical Engineering at Ahmadu Bello University & OND at Kwara State Polytechnics.
+* **Education:** B.Eng. Mechanical Engineering 
 
 ---
 
@@ -114,23 +101,9 @@ This is a summary of my technical skills.
 
 ## GitHub Analytics
 
-<p align="center">
-
-  <span style="display: inline-block;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=adewoye-saheed-dml&show_icons=true&hide_border=true&theme=default"
-      alt="Adewoye Saheed GitHub Stats" 
-      height="190"
-    />
-  </span>
-
-  <span style="display: inline-block; margin-left: 10px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adewoye-saheed-dml&layout=compact&hide_border=true&theme=default"
-      alt="Top Languages" 
-      height="190"
-    />
-  </span>
-
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adewoye-saheed-dml&theme=default&hide_border=true"/>
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adewoye-saheed-dml&theme=default"/>
+</div>
 
