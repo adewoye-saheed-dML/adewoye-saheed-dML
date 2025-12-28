@@ -1,6 +1,6 @@
 # Hi, I'm Saheed Damilola Adewoye
 
-Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead @ Insights Data Academy 
+Sustainability Data Analyst • Huawei-Certified ICT Professional • Mentor Lead @ Insights Data Academy 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adewoye-saheed-dml/" target="_blank">
@@ -21,16 +21,15 @@ Award-winning Data Analyst • Huawei-Certified ICT Professional • Mentor Lead
 
 ### Personal Mission
 
->My professional journey is rooted in a deep curiosity for the stories data can tell. With a foundation in Data Analysis and Data Science, and currently expanding my expertise into Data Engineering, I focus on the entire data lifecycle. I am committed to designing and implementing efficient data pipelines and architectures that ensure data is not just available, but reliable and actionable. For me, it is about transforming raw data into intelligent systems that drive decision-making and solve pressing challenges.
+>My professional journey is rooted in a deep curiosity for the stories data can tell about energy, emissions, and sustainability. With a foundation in Data Analysis and Data Science, and expanding into ESG-focused Data Engineering, I focus on the full data lifecycle in support of sustainable decision-making. I am committed to designing and implementing efficient pipelines and analytics systems that ensure energy and carbon data is accurate, actionable, and impactful. For me, it is about transforming raw sustainability data into intelligent insights that help organizations reduce carbon footprints, optimize operations, and achieve ESG goals.
 
 ---
 ### About Me
 
 * **Current Role:** Mentor Lead at Insights Data Academy.
-* **Learning:** Currently deepening my knowledge of unsupervised machine learning with MeanShift Clustering.
-* **Focus:** Expertise in cloud computing, storage solutions, and AI-driven data analytics. Proven ability to leverage data wrangling, visualization, and predictive modeling.
-* **Passion:** I am passionate about developing cloud-based AI Data solutions for sustainable impact.
-* **Let's Connect:** Feel free to ask me anything; I'm always open to discussions and collaboration.
+* **Focus:** Expertise in ESG analytics, energy data, and carbon-intensity modeling. Skilled in building automated data pipelines, dashboards, and decision tools for sustainability and industrial decarbonization.
+* **Passion:** I am passionate about turning energy and emissions data into actionable insights that reduce carbon footprints and support ESG goals.
+* **Let's Connect:** Always open to discussions on ESG analytics, climate tech, sustainability data, and industrial decarbonization.
 * **Education:** B.Eng. Mechanical Engineering 
 
 ---
