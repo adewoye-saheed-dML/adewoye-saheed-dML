@@ -71,13 +71,6 @@ This is a summary of my technical skills.
 
 ---
 
-### Learning Journey
-
-* **Now:** Deepening my understanding of unsupervised machine learning with MeanShift Clustering.
-* **Next:** Exploring advanced model deployment techniques and MLOps practices to bridge the gap between analysis and production.
-
----
-
 ###  Certifications & Achievements
 * **Data Scientist, ALX**
 * **Data Analyst, DataCamp**
